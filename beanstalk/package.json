@@ -1,0 +1,17 @@
+{
+  "name": "cities-game-skill",
+  "description": "Cities Game",
+  "version": "0.0.1",
+  "private": true,
+  "license": "",
+  "author": "DenTal",
+  "engines": {
+    "node": ">=6.9.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
