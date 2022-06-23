@@ -41,3 +41,6 @@ issued or self-signed certificate.
         Elastic Beanstalk application.
     </li>
 </ol>
+
+## Video Manuals
+Folder ./video/ contains provides video files containing detailed instructions.
