@@ -7,6 +7,7 @@ Here are considered two options:
     <li>Elastic Beanstalk</li>
 </ol>
 Other options can also be used for the purpose - EC2, EKS, ECS etc.
+See the Yandex documentation for more details (in Russian): https://yandex.ru/dev/dialogs/alice/doc/deploy-aws.html
 
 ## Lambda Function back-end
 Proceed with the following steps to create a back-end:
